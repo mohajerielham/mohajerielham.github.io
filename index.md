@@ -16,15 +16,14 @@
 
 
 ---
-+ trade on Tehran Stock Exchange and Forex
 + Data visualization
 + Machine learning
 + Deep Learning
 + Database Structures & Algorithms
 + Statistical Analytis
 + Data Preparation
++ Data Mining
 + Quality Management
-+ translating
 
 
 ### Education
@@ -32,7 +31,7 @@
 
 ---
 + M.S. construction management engineering
-_ shahid beheshti university 
++ shahid beheshti university 
 
 
 ### language
